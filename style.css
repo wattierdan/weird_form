@@ -1,0 +1,69 @@
+body {
+    background-color: grey;
+}
+
+#container {
+    max-width: 500px;
+    margin: auto; 
+}
+
+#formTitle {
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: monospace;
+    padding: 5px;
+    border: solid 2px;
+    margin: 5px;
+}
+
+#aForm {
+    border: solid 2px;
+    padding: 5px;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+
+.formGroup {
+    background-color: whitesmoke;
+    padding: 10px;
+    font-family: monospace;
+    text-align: center;
+}
+
+table { 
+    margin: auto;
+}
+
+.basicInfo {
+    width: 300px;
+}
+
+td {
+    width:50px; 
+}
+
+.skills { 
+    width: 400px;
+    font-size: smaller;
+    text-align: left;
+}
+
+textarea {
+    width: 400px;
+    height: 75px;
+    border: solid 1px;
+    resize: vertical;
+}
+
+button {
+    background-color:lavender;
+    border-color: black;
+    padding:5px;
+    border: solid 2px;
+    width: 200px;
+    font-weight: bolder;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
